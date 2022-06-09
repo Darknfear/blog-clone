@@ -5,9 +5,10 @@ const NavbarCustom: React.FC = () => {
       <Container>
         <Logo src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" />
         <Menu>
-            <a href="/">
-                
-            </a>
+          <a href="/">Khóa học</a>
+          <a href="/">Khóa học</a>
+          <a href="/">Khóa học</a>
+          <a href="/">Khóa học</a>
         </Menu>
       </Container>
     );
